@@ -1,0 +1,26 @@
+package com.class2;
+
+
+
+public class TestClass { 
+	private void addition() {
+		int a=5;
+		int b=6;
+		int c=a+b;
+		System.out.println(c);
+
+	}
+	private void subraction() {
+		int a=10;
+		int b=6;
+		int c=a-b;
+System.out.println(c);
+	}
+	
+	
+public static void main(String[] args) {
+	TestClass test = new TestClass();
+			test.addition();
+	test.subraction();
+}
+}

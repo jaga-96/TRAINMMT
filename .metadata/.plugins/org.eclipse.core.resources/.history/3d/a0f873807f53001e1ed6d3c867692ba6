@@ -1,0 +1,21 @@
+package com.basic;
+
+public class TaskTest {
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		System.out.println("Text to be printed");
+		System.out.println("hellow world"+ '\n' +"... and the universe!");
+		
+	}
+	 
+	
+
+	}
+
+
